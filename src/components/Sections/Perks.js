@@ -1,5 +1,5 @@
 import React from 'react'
-import PerkItem from '../perkItem'
+import PerkItem from '../PerkItem'
 
 
 const Perks = () => {
