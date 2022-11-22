@@ -9,9 +9,6 @@ import Landing from "../components/Sections/Landing"
 import Perks from "../components/Sections/Perks"
 import Support from "../components/Support"
 import Why from "../components/Why"
-// import "./styles/globals.css"
-
-
 
 const IndexPage = () => {
   return (

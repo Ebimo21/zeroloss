@@ -37,7 +37,7 @@ const Landing = () => {
             <Button styling="text-yellow-400 m-auto block md:m-0 mt-4" text="Buy ZLT"></Button>
         </div>
         <div className='basis-5/12'>
-            <img src='/images/zeroloss-faq.png' className="max-w-xs md:max-w-full " alt='landing data from' />
+            <img src='/images/zeroloss-dev1.png' className="max-w-xs md:max-w-full " alt='landing data from' />
         </div>
     </div>
 
