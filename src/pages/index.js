@@ -7,6 +7,7 @@ import InfoChart from "../components/InfoChart"
 import Layout from "../components/Layout"
 import Landing from "../components/Sections/Landing"
 import Perks from "../components/Sections/Perks"
+import RoadMap from "../components/Sections/RoadMap"
 import Support from "../components/Support"
 import Why from "../components/Why"
 
@@ -21,6 +22,7 @@ const IndexPage = () => {
         <BuyAndSell />
         <Support />
         <Brands />
+        <RoadMap />
         <Link to="/about">About</Link>
     </Layout>
   )
